@@ -1,2 +1,2 @@
 # UniPad-theme-template
-UnPad theme example
+UniPad theme example
