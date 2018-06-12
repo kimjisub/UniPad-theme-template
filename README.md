@@ -54,9 +54,9 @@ chainled 파일이 없으면 chain, chain_, chain__ 시스템을 사용합니다
 
 ---
 
-## prev, play, stop, next (180x180)
+## prev, play, stop, next, prev_, play_, stop_, next_ (180x180)
 
-![prev](/app/src/main/res/drawable/prev.png)![play](/app/src/main/res/drawable/play.png)![stop](/app/src/main/res/drawable/stop.png)![next](/app/src/main/res/drawable/next.png)
-![prev_](/app/src/main/res/drawable/prev_.png)![play_](/app/src/main/res/drawable/play_.png)![stop_](/app/src/main/res/drawable/stop_.png)![next_](/app/src/main/res/drawable/next_.png)
+![prev](/app/src/main/res/drawable/prev.png)![play](/app/src/main/res/drawable/play.png)![pause](/app/src/main/res/drawable/pause.png)![next](/app/src/main/res/drawable/next.png)
+![prev_](/app/src/main/res/drawable/prev_.png)![play_](/app/src/main/res/drawable/play_.png)![pause_](/app/src/main/res/drawable/pause_.png)![next_](/app/src/main/res/drawable/next_.png)
 
 `연습모드로 표기될 체인`
