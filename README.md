@@ -56,7 +56,15 @@ chainled 파일이 없으면 chain, chain_, chain__ 시스템을 사용합니다
 
 ## prev, play, stop, next, prev_, play_, stop_, next_ (180x180)
 
-![prev](/app/src/main/res/drawable/prev.png)![play](/app/src/main/res/drawable/play.png)![pause](/app/src/main/res/drawable/pause.png)![next](/app/src/main/res/drawable/next.png)
-![prev_](/app/src/main/res/drawable/prev_.png)![play_](/app/src/main/res/drawable/play_.png)![pause_](/app/src/main/res/drawable/pause_.png)![next_](/app/src/main/res/drawable/next_.png)
+
+<img src="/app/src/main/res/drawable/prev.png" alt="prev" width="50px"/>
+<img src="/app/src/main/res/drawable/play.png" alt="play" width="50px"/>
+<img src="/app/src/main/res/drawable/pause.png" alt="pause" width="50px"/>
+<img src="/app/src/main/res/drawable/next.png" alt="next" width="50px"/>
+</br>
+<img src="/app/src/main/res/drawable/prev_.png" alt="prev_" width="50px"/>
+<img src="/app/src/main/res/drawable/play_.png" alt="play_" width="50px"/>
+<img src="/app/src/main/res/drawable/pause_.png" alt="pause_" width="50px"/>
+<img src="/app/src/main/res/drawable/next_.png" alt="next_" width="50px"/>
 
 `연습모드로 표기될 체인`
