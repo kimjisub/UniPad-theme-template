@@ -2,7 +2,7 @@
 유니패드에 적용할 수 있는 테마 앱의 탬플릿입니다.
 
 ## 수정해야 될 것들
-![img1](img1.png =300x)
+<img src="img1.png" alt="img1" width="300px"/>
 
 ## btn, btn_
 btn.png
