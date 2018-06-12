@@ -9,13 +9,13 @@
 
 ## btn.png (32x32)
 
-![btn](/app/src/main/res/drawable/btn.png)
+<img src="/app/src/main/res/drawable/btn.png" alt="btn" width="50px"/>
 
 `버튼의 기본 색상`
 
 ## btn_.png (32x32)
 
-![btn_](/app/src/main/res/drawable/btn_.png)
+<img src="/app/src/main/res/drawable/btn_.png" alt="btn_" width="50px"/>
 
 `버튼이 눌렸을 때의 색상`
 
@@ -30,25 +30,25 @@ chainled 파일이 없으면 chain, chain_, chain__ 시스템을 사용합니다
 
 ## chainled (180x180)
 
-![chainled](/app/src/main/res/drawable/chainled.png)
+<img src="/app/src/main/res/drawable/chainled.png" alt="chainled" width="50px"/>
 
 `led 표시를 지원하기 위해서 배경이 채워진 체인`
 
 ## chain (180x180)
 
-![chain](/app/src/main/res/drawable/chain.png)
+<img src="/app/src/main/res/drawable/chain.png" alt="chain" width="50px"/>
 
 `기본 체인`
 
 ## chain_ (180x180)
 
-![chain_](/app/src/main/res/drawable/chain_.png)
+<img src="/app/src/main/res/drawable/chain_.png" alt="chain_" width="50px"/>
 
 `선택된 체인`
 
 ## chain__ (180x180)
 
-![chain__](/app/src/main/res/drawable/chain__.png)
+<img src="/app/src/main/res/drawable/chain__.png" alt="chain__" width="50px"/>
 
 `연습모드로 표기될 체인`
 
