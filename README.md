@@ -7,6 +7,64 @@
 
 ---
 
+## string.xml
+```xml
+<resources>
+	<string name="app_name">UniPad theme template</string>
+
+	<string name="theme_name">UniPad - Theme template</string>
+	<string name="theme_description">This is theme template</string>
+	<string name="theme_author">UniPad</string>
+</resources>
+```
+
+---
+
+## color.xml
+```xml
+<resources>
+	<!--skin-->
+	<color name="checkbox">#a6b4c9</color>
+	<color name="trace_log">#161e2b</color>
+	<color name="option_window">#FFFFFF</color>
+	<color name="option_window_checkbox">#414F66</color>
+	<color name="option_window_btn">#d6d8d7</color>
+	<color name="option_window_btn_text">#0f0f0f</color>
+	
+	<!--app color-->
+	<color name="app_orange">#ff8f00</color>
+	<color name="app_blue">#00b8d4</color>
+	<color name="app_blue_dark">#009db5</color>
+</resources>
+```
+
+---
+
+## build.gradle (Module: app)
+```javascript
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    defaultConfig {
+        applicationId "com.kimjisub.launchpad.theme.template"   //change this
+        minSdkVersion 16
+        targetSdkVersion 26
+        versionCode 1                                           //change this
+        versionName "1.0.0"                                     //change this
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+```
+
+---
+
 ## btn.png (32x32)
 
 <img src="/app/src/main/res/drawable/btn.png" alt="btn" width="50px"/>
