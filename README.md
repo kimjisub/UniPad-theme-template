@@ -6,12 +6,15 @@
 
 ## btn, btn_
 btn.png
+
 ![btn](/app/src/main/res/drawable/btn.png)
+
 btn_.png
-![btn_](https://raw.githubusercontent.com/0226daniel/UniPad-theme-template/master/app/src/main/res/drawable/btn_.png)
+
+![btn_](/app/src/main/res/drawable/btn_.png)
 
 ## chain
-![chainled](https://raw.githubusercontent.com/0226daniel/UniPad-theme-template/master/app/src/main/res/drawable/chainled.png)
-![chain](https://raw.githubusercontent.com/0226daniel/UniPad-theme-template/master/app/src/main/res/drawable/chain.png)
-![chain_](https://raw.githubusercontent.com/0226daniel/UniPad-theme-template/master/app/src/main/res/drawable/chain_.png)
-![chain__](https://raw.githubusercontent.com/0226daniel/UniPad-theme-template/master/app/src/main/res/drawable/chain__.png)
+![chainled](/app/src/main/res/drawable/chainled.png)
+![chain](/app/src/main/res/drawable/chain.png)
+![chain_](/app/src/main/res/drawable/chain_.png)
+![chain__](/app/src/main/res/drawable/chain__.png)
