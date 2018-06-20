@@ -151,6 +151,12 @@ phantom_.png 가 없으면 phantom.png 적용
 
 `배경에 사용될 이미지`
 
+## custom_logo (unfixed)
+
+<img src="/app/src/main/res/drawable/custom_logo.png" alt="custom_logo" width="200px"/>
+
+`우측 상단에 표시되는 로고, 삭제하면 사라짐`
+
 ---
 
 ## appicon (512x512)
