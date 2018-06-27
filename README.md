@@ -6,7 +6,7 @@
 <img src="img1.png" alt="img1" width="300px"/>
 
 ## 스킨 구조
-<img src="unipad-ui-structure-extended.png" alt="unipad-ui-structure-extended" width="300px"/>
+<img src="unipad-ui-structure-extended.png" alt="unipad-ui-structure-extended" width="500px"/>
 
 ---
 
