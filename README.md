@@ -3,10 +3,10 @@
 유니패드에 적용할 수 있는 테마 앱의 탬플릿입니다.
 
 ## 수정해야 될 것들
-<img src="img1.png" alt="img1" width="300px"/>
+<img src="images/img1.png" alt="img1" width="300px"/>
 
 ## 스킨 구조
-<img src="unipad-ui-structure-extended.png" alt="unipad-ui-structure-extended" width="500px"/>
+<img src="images/unipad-ui-structure-extended.png" alt="unipad-ui-structure-extended" width="500px"/>
 
 ---
 
