@@ -1,10 +1,12 @@
-# UniPad theme template
-Templates for theme apps that can be applied to UniPad.
+[English Document](/)
 
-## Files to remake
+# UniPad theme template
+유니패드에 적용할 수 있는 테마 앱의 탬플릿입니다.
+
+## 수정해야 될 것들
 <img src="images/img1.png" alt="img1" width="300px"/>
 
-## Theme Structure
+## 스킨 구조
 <img src="images/unipad-ui-structure-extended.png" alt="unipad-ui-structure-extended" width="500px"/>
 
 ---
@@ -71,40 +73,40 @@ android {
 
 <img src="/app/src/main/res/drawable/btn.png" alt="btn" width="50px"/>
 
-`The default color of the pad`
+`버튼의 기본 색상`
 
 ## btn_ (32x32)
 
 <img src="/app/src/main/res/drawable/btn_.png" alt="btn_" width="50px"/>
 
-`The color when the button is pressed`
+`버튼이 눌렸을 때의 색상`
 
 ---
 
 ```
-Put only resources for the system you are using.
-If all 4 resources are present, it will work by chainled mode.
+일반 모드 (상) 또는 chainled 모드 (하) 중 사용할 시스템에 대한 리소스만 넣으세요.
+4가지 리소스가 모두 존재할 경우 chainled 모드로 작동합니다.
 ```
 
-## chain, chain_, chain__ (180x180) Normal Mode
+## chain, chain_, chain__ (180x180)
 
 <img src="/app/src/main/res/drawable/chain.png" alt="chain" width="50px"/><img src="/app/src/main/res/drawable/chain_.png" alt="chain_" width="50px"/><img src="/app/src/main/res/drawable/chain__.png" alt="chain__" width="50px"/>
 
-`The basic chain, the selected chain, the chain to be marked as the practice mode`
+`기본 체인, 선택된 체인, 연습모드로 표기될 체인`
 
-## chainled (180x180) Chainled Mode
+## chainled (180x180)
 
 <img src="/app/src/main/res/drawable/chainled.png" alt="chainled" width="50px"/>
 
-`To support the LED display, the background filled chain image`
+`led 표시를 지원하기 위해서 배경이 채워진 체인`
 
 ---
 
 ## prev, play, pause, next, prev_, play_, pause_, next_ (180x180)
 
 ```
-aaaa  : not touched yet.
-aaaa_ : While touching.
+언더바(_)가 붙지 않은 이미지는 터치되지 않았을 때
+언더바가 붙은 이미지는 터치가 됐을 때
 ```
 
 <img src="/app/src/main/res/drawable/prev.png" alt="prev" width="50px"/><img src="/app/src/main/res/drawable/play.png" alt="play" width="50px"/><img src="/app/src/main/res/drawable/pause.png" alt="pause" width="50px"/><img src="/app/src/main/res/drawable/next.png" alt="next" width="50px"/>
@@ -116,20 +118,20 @@ aaaa_ : While touching.
 ## phantom (180x180)
 
 ```
-If Phantom_.png is not exist, apply phantom.png
-If the unipack size is over 16 * 16, it will not apply
-Both horizontal and vertical numbers must be even number
+phantom_.png 가 없으면 phantom.png 적용
+유니팩 크기가 16*16 이상으로 넘어가면 phantom 적용 X
+가로 및 세로의 개수가 모두 짝수이여야 적용
 ```
 
 <img src="/app/src/main/res/drawable/phantom.png" alt="phantom" width="50px"/>
 
-`Image over pad`
+`버튼 위에 씌우는 이미지`
 
 ## phantom_ (180x180)
 
 <img src="/app/src/main/res/drawable/phantom_.png" alt="phantom_" width="50px"/>
 
-`Images put over the center 4 pad`
+`중앙 4개의 버튼 위에 씌우는 이미지`
 
 ---
 
@@ -137,13 +139,13 @@ Both horizontal and vertical numbers must be even number
 
 <img src="/app/src/main/res/drawable/playbg.png" alt="playbg" width="400px"/>
 
-`Images to be used in the background`
+`배경에 사용될 이미지`
 
 ## custom_logo (unfixed)
 
 <img src="/app/src/main/res/drawable/custom_logo.png" alt="custom_logo" width="200px"/>
 
-`Logo on top right, disappear when not exist this file`
+`우측 상단에 표시되는 로고, 삭제하면 사라짐`
 
 ---
 
@@ -151,7 +153,7 @@ Both horizontal and vertical numbers must be even number
 
 <img src="/app/src/main/res/drawable/appicon.png" alt="appicon" width="200px"/>
 
-`Icons representing skin, used as skin app icons`
+`스킨을 나타내는 아이콘, 스킨 앱 아이콘으로 사용됨`
 
 ---
 
@@ -159,6 +161,6 @@ Both horizontal and vertical numbers must be even number
 
 <img src="/app/src/main/res/drawable/theme_ic.png" alt="theme_ic" width="200px"/>
 
-`Icon representing skin, shown in skin selection window`
+`스킨을 나타내는 아이콘, 스킨 선택 창에서 보여짐`
 
 ---
