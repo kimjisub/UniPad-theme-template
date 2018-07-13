@@ -1,4 +1,4 @@
-[English Document](/README_ko.md)
+[English Document](/README.md)
 
 # UniPad theme template
 유니패드에 적용할 수 있는 테마 앱의 탬플릿입니다.
