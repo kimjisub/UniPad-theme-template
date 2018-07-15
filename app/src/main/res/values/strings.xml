@@ -1,7 +1,7 @@
 <resources>
-	<string name="app_name">UniPad theme template</string>
+	<string name="app_name">Molten</string>
 
-	<string name="theme_name">UniPad - Theme template</string>
-	<string name="theme_description">This is theme template</string>
-	<string name="theme_author">UniPad</string>
+	<string name="theme_name">Molten</string>
+	<string name="theme_description">Firecat Launchpading Molten Skin</string>
+	<string name="theme_author">CyRioitic3</string>
 </resources>

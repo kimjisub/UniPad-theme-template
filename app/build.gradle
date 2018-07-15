@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.kimjisub.launchpad.theme.template"   //change this
+        applicationId "com.kimjisub.launchpad.theme.molten"   //change this
         minSdkVersion 16
         targetSdkVersion 26
         versionCode 1                                           //change this
